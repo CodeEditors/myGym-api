@@ -1,2 +1,2 @@
 # myGym-api
-My Gym Back-end
+My Gym Back-End
